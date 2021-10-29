@@ -3,4 +3,4 @@
                             【28】Detectability_and_jamming_of_small_UAVs_by_commercially_available_low-cost_means，【34】ARDroneCorruption，并进行汇报
 10.11——10.17：安装VMware与Ubuntu，装DFSV数据流安全验证工具。中间出现了一些问题导致Windows也崩了几次，后来请教师姐成功装好。学习信息流机密性与完整性定义，大致了解DFSV工具原理。
 10.18——10.24：阅读郭鑫玉师姐的毕业论文《嵌入式代码机密性验证》与饶雪师姐写的关于DFSV的专利，研究如何使用DFSV进行完整性与机密性验证，请教师兄打标签含义。验证代码时发现很多问题，通过反例进行解析，但均失败，推测是库函数问题
-10.24——10.30：读关于mavlink的论文两篇。阅读GCS_mavlink.cpp代码以及飞控代码，网上学习C++和C语言基本知识（好多忘记了）
+10.24——10.30：读关于mavlink的论文两篇。阅读GCS_mavlink.cpp代码以及飞控代码（进度较慢，代码很难读懂），网上学习C++和C语言基本知识（好多忘记了）
